@@ -16,6 +16,10 @@
         {
             "name": "Evil Martians",
             "email": "lefthook@evilmartians.com"
+        },
+        {
+            "name": "Louis Midson LAJEANTY",
+            "email": "midsonlajeanty@proton.me"
         }
     ],
     "support": {
@@ -30,3 +34,4 @@
         "bin/lefthook"
     ]
 }
+
